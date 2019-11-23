@@ -45,6 +45,11 @@ class FCNMaskHead(nn.Module):
         self.class_agnostic = class_agnostic
         self.conv_cfg = conv_cfg
         self.norm_cfg = norm_cfg
+        if not isinstance(self.norm_cfg, list):
+            N = self.num_convs
+            self.norm_cfgs = [self.norm_cfg] * N
+        else:
+            self.norm_cfgs = self.norm_cfg
         self.fp16_enabled = False
         self.loss_mask = build_loss(loss_mask)
 
@@ -60,7 +65,7 @@ class FCNMaskHead(nn.Module):
                     self.conv_kernel_size,
                     padding=padding,
                     conv_cfg=conv_cfg,
-                    norm_cfg=norm_cfg))
+                    norm_cfg=self.norm_cfgs[i]))
         upsample_in_channels = (
             self.conv_out_channels if self.num_convs > 0 else in_channels)
         if self.upsample_method is None:

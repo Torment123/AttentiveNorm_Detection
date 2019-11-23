@@ -150,7 +150,7 @@ class ConvModule(nn.Module):
     def init_weights(self):
         nonlinearity = 'relu' if self.activation is None else self.activation
         kaiming_init(self.conv, nonlinearity=nonlinearity)
-        if self.with_norm:
+        if self.with_norm and 'agn' not in self.norm_name:
             constant_init(self.norm, 1, bias=0)
 
     def forward(self, x, activate=True, norm=True):
