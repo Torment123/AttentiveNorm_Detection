@@ -19,6 +19,15 @@ This repo contains the code and pretrained models for [AOGNets: Compositional Gr
 }
 ```
 ## Getting Started
+- The ImageNet pretrained models are needed for training, and they can be downloaded from the [https://github.com/iVMCL/AOGNet-v2](https://github.com/iVMCL/AOGNet-v2). 
+
+```
+git clone https://github.com/iVMCL/AttentiveNorm_Detection.git
+cd AttentiveNorm_Detection
+mkdir pretrained_models   # And put all the pretrained models under that directory.
+```
+
+- Installation, data preparation, and training/evaluating models are the same as it in the [original mmdetection](https://github.com/open-mmlab/mmdetection) repo. 
 
 ## Results and Models
 Mask-RCNN
