@@ -39,7 +39,7 @@ Mask-RCNN
     <td>45.71M</td>
     <td>39.2</td>
     <td>35.2</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1m6_-5ri-ZcVtcrazAIXaPr_0y8KSx42p">Google Drive</a></td>
   </tr>
   <tr>
     <td>AN (w/ BN)</td>
@@ -47,7 +47,7 @@ Mask-RCNN
     <td>45.91M</td>
     <td>40.8</td>
     <td>36.4</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=12bAq3OhZ-jnv_jGNsVb4TsFhzzueDCDh">Google Drive</a></td>
   </tr>
     <tr>
     <td>*GN</td>
@@ -71,7 +71,7 @@ Mask-RCNN
     <td>45.96M</td>
     <td>41.6</td>
     <td>37.4</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1pFrwDMERNAnvHZw73fdHqa400-ou-BW9">Google Drive</a></td>
   </tr>
   <tr>
     <td rowspan="4">ResNet-101</td>
@@ -80,7 +80,7 @@ Mask-RCNN
     <td>64.70M</td>
     <td>41.4</td>
     <td>36.8</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1xWEsfHiwZp_INCvygJMNy6amESVmXqRn">Google Drive</a></td>
   </tr>
   <tr>
     <td>AN (w/ BN)</td>
@@ -88,7 +88,7 @@ Mask-RCNN
     <td>65.15M</td>
     <td>43.1</td>
     <td>38.2</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1A9Dp_DMbMu7j4D6Xl9Ej7Q6_SbkdCs3f">Google Drive</a></td>
   </tr>
     <tr>
     <td>*GN</td>
@@ -104,7 +104,7 @@ Mask-RCNN
     <td>65.20M</td>
     <td>43.2</td>
     <td>38.8</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1ySGHIuYDlcPxlXlsNzwqgF_kDjDbetSK">Google Drive</a></td>
   </tr>
   <tr>
     <td rowspan="3">AOGNet-12m</td>
@@ -113,7 +113,7 @@ Mask-RCNN
     <td>33.09M</td>
     <td>40.7</td>
     <td>36.4</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1zwFvFH2h6jNgrwSW5x47zj1k1VAEcJUt">Google Drive</a></td>
   </tr>
   <tr>
     <td>AN (w/ BN)</td>
@@ -121,7 +121,7 @@ Mask-RCNN
     <td>33.21M</td>
     <td>42.0</td>
     <td>37.8</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1DfDd0D81TV3JpKbGkX_X5stk1bVdF5GR">Google Drive</a></td>
   </tr>
   <tr>
     <td>AN (w/ BN)</td>
@@ -129,7 +129,7 @@ Mask-RCNN
     <td>33.26M</td>
     <td>43.0</td>
     <td>38.7</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1s_WO4O9hBjYMLHRffcCo8Qb0xt1_3ifR">Google Drive</a></td>
   </tr>
   <tr>
     <td rowspan="3">AOGNet-40m</td>
@@ -138,7 +138,7 @@ Mask-RCNN
     <td>60.73M</td>
     <td>43.4</td>
     <td>38.5</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1LIZDL22XcaUlPAKdQkPa8INB9zTTtrNj">Google Drive</a></td>
   </tr>
   <tr>
     <td>AN (w/ BN)</td>
@@ -146,7 +146,7 @@ Mask-RCNN
     <td>60.97M</td>
     <td>44.1</td>
     <td>39.0</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1XvRgjqCxBE5iiDcm-s10piMPuaglQrSa">Google Drive</a></td>
   </tr>
   <tr>
     <td>AN (w/ BN)</td>
@@ -154,7 +154,7 @@ Mask-RCNN
     <td>61.02M</td>
     <td>44.9</td>
     <td>40.2</td>
-    <td><a href="">Google Drive</a></td>
+    <td><a href="https://drive.google.com/open?id=1QbVVHi_bE_tEIR0H8u-1FXa2jCzN7GvA">Google Drive</a></td>
   </tr>
 </table>
 
