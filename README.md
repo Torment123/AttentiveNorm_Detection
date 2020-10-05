@@ -1,4 +1,7 @@
 # Attentive Normalization
+
+**Please check our refactorized code at [iVMCL-Release](https://github.com/iVMCL/iVMCL-Release).**
+
 This repo contains the code and pretrained models for [AOGNets: Compositional Grammatical Architectures for Deep Learning
 ](https://arxiv.org/abs/1711.05847)(CVPR 2019) and [Attentive Normalization](https://arxiv.org/abs/1908.01259). The models are trained on COCO object detection and instance segmentation task with Mask-RCNN and Cascade-Mask-RCNN model. We replace the backbone with [our imagenet pretrained backbones](https://github.com/iVMCL/AOGNet-v2) and head normalization with our Attentive Normalization. The results and trained models could be found in the table below. 
 
